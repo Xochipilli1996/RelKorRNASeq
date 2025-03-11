@@ -1,2 +1,2 @@
 # RelKorRNASeq
-Reuirement of Shruthi Paper
+Requirement of Shruthi Paper
